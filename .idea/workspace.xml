@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f93a951d-afda-415e-8a5c-f078a4d26543" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CNAME" afterPath="$PROJECT_DIR$/CNAME" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,17 +18,17 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="89" column="74" lean-forward="true" selection-start-line="89" selection-start-column="74" selection-end-line="89" selection-end-column="74" />
+            <state relative-caret-position="40">
+              <caret line="94" column="22" lean-forward="true" selection-start-line="94" selection-start-column="22" selection-end-line="94" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CNAME" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CNAME" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CNAME">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -77,6 +77,7 @@
       <replace>files/</replace>
       <replace>style</replace>
       <replace>files</replace>
+      <replace>http://quakechat.kiwiinfo.com/</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -92,9 +93,9 @@
         <option value="$PROJECT_DIR$/files/style.css" />
         <option value="$PROJECT_DIR$/files/58d1d321facf5215557499e1-1490147252.css" />
         <option value="$PROJECT_DIR$/.gitconfig" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/index-1.html" />
         <option value="$PROJECT_DIR$/CNAME" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -274,7 +275,7 @@
       <workItem from="1510045936515" duration="741000" />
       <workItem from="1510047645624" duration="554000" />
       <workItem from="1510084880719" duration="682000" />
-      <workItem from="1510090091078" duration="10416000" />
+      <workItem from="1510090091078" duration="10708000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1510024462400</created>
@@ -332,11 +333,18 @@
       <option name="project" value="LOCAL" />
       <updated>1510110037622</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="cname">
+      <created>1510110345641</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1510110345641</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20204000" />
+    <option name="totallyTimeSpent" value="20496000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3" y="87" width="1436" height="701" extended-state="0" />
@@ -728,18 +736,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="89" column="74" lean-forward="true" selection-start-line="89" selection-start-column="74" selection-end-line="89" selection-end-column="74" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CNAME">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="8" lean-forward="true" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="94" column="22" lean-forward="true" selection-start-line="94" selection-start-column="22" selection-end-line="94" selection-end-column="22" />
           <folding />
         </state>
       </provider>
