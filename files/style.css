@@ -1533,3 +1533,7 @@ a {
 .rich-text a {
     text-decoration: none;
 }
+
+.fr-svg-inner h1 {
+    color: white;
+}
