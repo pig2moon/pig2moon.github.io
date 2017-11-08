@@ -887,8 +887,7 @@ a {
     margin-right: 0;
     margin-bottom: 0;
     margin-left: 0;
-    width: 20%;
-    /*width: 33.33%;*/
+    width: 33.33%;
     /*clear: left;*/
     max-width: inherit
 }
@@ -898,8 +897,7 @@ a {
     margin-right: 0;
     margin-bottom: 0;
     margin-left: 0;
-    width: 20%;
-    /*width: 33.33%;*/
+    width: 33.33%;
     clear: none;
     max-width: inherit
 }
@@ -909,8 +907,7 @@ a {
     margin-right: 0;
     margin-bottom: 0;
     margin-left: 0;
-    width: 20%;
-    /*width: 33.33%;*/
+    width: 33.33%;
     clear: none;
     max-width: inherit
 }
