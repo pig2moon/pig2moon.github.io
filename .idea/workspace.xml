@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f93a951d-afda-415e-8a5c-f078a4d26543" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/terms-of-use.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/privacy-policy.html" afterPath="$PROJECT_DIR$/privacy-policy.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/terms-of-use.html" afterPath="$PROJECT_DIR$/terms-of-use.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,7 +19,7 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="476">
@@ -38,14 +36,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="privacy-policy.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="privacy-policy.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/privacy-policy.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="252" column="0" lean-forward="true" selection-start-line="252" selection-start-column="0" selection-end-line="252" selection-end-column="0" />
+            <state relative-caret-position="-1199">
+              <caret line="92" column="0" lean-forward="false" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
               <folding>
                 <element signature="n#script#1;n#head#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -57,10 +54,9 @@
       <file leaf-file-name="terms-of-use.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/terms-of-use.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="503">
-              <caret line="531" column="0" lean-forward="false" selection-start-line="531" selection-start-column="0" selection-end-line="543" selection-end-column="6" />
+            <state relative-caret-position="316">
+              <caret line="458" column="35" lean-forward="false" selection-start-line="458" selection-start-column="35" selection-end-line="458" selection-end-column="35" />
               <folding>
-                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -147,9 +143,9 @@
         <option value="$PROJECT_DIR$/files/policy.html" />
         <option value="$PROJECT_DIR$/files/style.css" />
         <option value="$PROJECT_DIR$/Terms-of-Use.html" />
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/terms-of-use.html" />
         <option value="$PROJECT_DIR$/privacy-policy.html" />
-        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -161,9 +157,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="267" />
-    <option name="y" value="152" />
-    <option name="width" value="898" />
+    <option name="x" value="30" />
+    <option name="y" value="23" />
+    <option name="width" value="1161" />
     <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -347,7 +343,7 @@
       <workItem from="1510047645624" duration="554000" />
       <workItem from="1510084880719" duration="682000" />
       <workItem from="1510090091078" duration="14349000" />
-      <workItem from="1510194558063" duration="5060000" />
+      <workItem from="1510194558063" duration="6446000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1510024462400</created>
@@ -454,14 +450,28 @@
       <option name="project" value="LOCAL" />
       <updated>1510198439694</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Terms">
+      <created>1510213225326</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1510213225326</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Terms">
+      <created>1510213346062</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1510213346062</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29197000" />
+    <option name="totallyTimeSpent" value="30583000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="267" y="152" width="898" height="877" extended-state="0" />
+    <frame x="30" y="23" width="1161" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -518,7 +528,8 @@
     <MESSAGE value="update url" />
     <MESSAGE value="ico" />
     <MESSAGE value="policy" />
-    <option name="LAST_COMMIT_MESSAGE" value="policy" />
+    <MESSAGE value="Terms" />
+    <option name="LAST_COMMIT_MESSAGE" value="Terms" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -751,33 +762,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/terms-of-use.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="503">
-          <caret line="531" column="0" lean-forward="false" selection-start-line="531" selection-start-column="0" selection-end-line="543" selection-end-column="6" />
-          <folding>
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/privacy-policy.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="252" column="0" lean-forward="true" selection-start-line="252" selection-start-column="0" selection-end-line="252" selection-end-column="0" />
-          <folding>
-            <element signature="n#script#1;n#head#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
@@ -787,6 +771,31 @@
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/terms-of-use.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="458" column="35" lean-forward="false" selection-start-line="458" selection-start-column="35" selection-end-line="458" selection-end-column="35" />
+          <folding>
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/privacy-policy.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1199">
+          <caret line="92" column="0" lean-forward="false" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
+          <folding>
+            <element signature="n#script#1;n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
