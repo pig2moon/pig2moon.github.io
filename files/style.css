@@ -1335,6 +1335,12 @@ a {
     }
 }
 
+.fr-container .links li {
+    float: left;
+    padding: 0 10px;
+    list-style-type: none;
+}
+
 @media screen and (max-width: 480px) {
     .fr_text_bright_left.fr-text h1 {
         font-size: 2rem
@@ -1456,6 +1462,11 @@ a {
         float: left
     }
 
+    .fr-container .links li {
+        float: left;
+        padding: 0 10px;
+        list-style-type: none;
+    }
 }
 
 .fr_text_198 {
@@ -1535,3 +1546,21 @@ a {
     color: white;
 }
 
+.policy-content {
+    width: 90%;
+}
+
+.policy-content h6 {
+    font-style: italic;
+}
+
+.section-divider {
+    width: 40px;
+    height: 3px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+.bg-green {
+    background-color: #2BDE73;
+}
